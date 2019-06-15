@@ -1,0 +1,1 @@
+eo ddd oslo workshop
