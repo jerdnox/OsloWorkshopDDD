@@ -1,1 +1,1 @@
-eo ddd oslo workshop
+NDC Oslo Workshop: Event-Oriented Domain-Driven Design (Vaughn Vernon)
